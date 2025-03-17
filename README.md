@@ -167,10 +167,6 @@ print(f"Diagnosis: {result['class']} (Confidence: {result['confidence']:.2%})")
 - **ResNet50**: He et al. (2015)
 - **Class Balancing**: Buda et al. (2018)
 
-## License
-MIT License  
 
-## Contact
-[Your Name]@healthai.org  
-**Last Updated**: October 2023  
-**Version**: 1.1.0
+
+
